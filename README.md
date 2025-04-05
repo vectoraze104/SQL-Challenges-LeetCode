@@ -5,6 +5,8 @@
 
 This repository contains a comprehensive collection of SQL problems from [LeetCode](https://leetcode.com/problemset/database/) categorized by difficulty level:  
 🟢 **Easy**, 🟡 **Medium**, and 🔴 **Hard**.  
+
+It also contains SQL 50 Study Plan Questions from [LeetCode](https://leetcode.com/studyplan/top-sql-50/) 
 It's designed to help developers, data analysts, and data scientists sharpen their SQL skills by practicing real-world query problems.
 
 ---
