@@ -1,6 +1,4 @@
 # SQL-Challenges-LeetCode
-Gotcha! Here's the same detailed description, but with **refreshed and more stylish icons** for each difficulty level:
-
 ---
 
 **📊 LeetCode SQL Practice – Easy, Medium & Hard**
